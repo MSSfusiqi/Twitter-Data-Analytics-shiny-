@@ -1,8 +1,5 @@
-# Sta523-Final-Project： Mining Public Opinion about `#immigration`
+ Mining Public Opinion about `#immigration`
 
-#### Team Members
-
-Haohan Chen (hc149, haohanchen), Siqi Fu(sf236,MSSfusiqi), Yizi Lin(yl562,lyz1206), Chao Yang(cy67, niaonaijia), Hongshen Zhu (hz118, hongshen-zhu)
 
 #### Abstract
 
